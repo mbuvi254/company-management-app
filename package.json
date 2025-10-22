@@ -15,5 +15,13 @@
     "@prisma/client": "^6.17.1",
     "express": "^5.1.0"
   },
-  "description": ""
+  "description": "Node.js application for managing employees and departments using Prisma ORM with SQL Server.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbuvi254/company-management-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mbuvi254/company-management-app/issues"
+  },
+  "homepage": "https://github.com/mbuvi254/company-management-app#readme"
 }

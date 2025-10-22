@@ -3,10 +3,16 @@
 Node.js application for managing employees and departments using Prisma ORM with SQL Server.
 
 ## Screenshots
-<img src="./images/employees.png" alt="Logo" width="200" height="200">
-<img src="./images/employee.png" alt="Logo" width="200" height="200">
-<img src="./images/departments.png" alt="Logo" width="200" height="200">
-<img src="./images/department.png" alt="Logo" width="200" height="200">
+
+<p align="center">
+  <img src="./images/employees.png" alt="Employees" width="500" height="300">
+  <img src="./images/employee.png" alt="Employee" width="500" height="300">
+</p>
+
+<p align="center">
+  <img src="./images/departments.png" alt="Departments" width="500" height="300">
+  <img src="./images/department.png" alt="Department" width="500" height="300">
+</p>
 
 
 ## Tech Stack
