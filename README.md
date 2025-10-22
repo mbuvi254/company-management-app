@@ -5,13 +5,13 @@ Node.js application for managing employees and departments using Prisma ORM with
 ## Screenshots
 
 <p align="center">
-  <img src="./images/employees.png" alt="Employees" width="500" height="300">
-  <img src="./images/employee.png" alt="Employee" width="500" height="300">
+  <img src="./images/employees.png" alt="Employees" style="max-width:100%; height:auto;">
+  <img src="./images/employee.png" alt="Employee" style="max-width:100%; height:auto;">
 </p>
 
 <p align="center">
-  <img src="./images/departments.png" alt="Departments" width="500" height="300">
-  <img src="./images/department.png" alt="Department" width="500" height="300">
+  <img src="./images/departments.png" alt="Departments" style="max-width:100%; height:auto;">
+  <img src="./images/department.png" alt="Department" style="max-width:100%; height:auto;">
 </p>
 
 
