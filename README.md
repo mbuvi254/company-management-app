@@ -41,7 +41,7 @@ npx prisma db push
 
 4. Run the application:
 ```bash
-node index.js
+node database.js
 ```
 
 ## Database Models
@@ -89,7 +89,7 @@ deleteEmployee("EMP011");
 
 ## Notes
 
-- Uncomment  function calls in `index.js` to execute operations
+- Uncomment  function calls in `database.js` to execute operations
 - Use `npx prisma db push --force-reset` to reset database (deletes all data)
 - data for 6 departments and 11 employees included in comments
 
